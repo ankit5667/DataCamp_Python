@@ -1,3 +1,3 @@
 # DataCamp_Python
-This is a python project of data camp.
-This is first Commit.
+This is a python project of data camp
+This is first Commit
